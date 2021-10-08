@@ -10,7 +10,7 @@ If you want to support the addon by adding a new translation, you are more than 
 
 **1 -** First, start forking this repository.
 <br>
-**2 -** Then create the folder and file for your respective language in the following directory: `resources/translations`
+**2 -** Then create the folder and file for your respective language.
 ### Attention!
 
 Please create the folder and the language file with the initials as this site indicates: [Correct Abbreviations](https://support.mozilla.org/pt-BR/kb/abreviacao-de-localizacao).<br>
