@@ -16,3 +16,9 @@ If you want to support the addon by adding a new translation, you are more than 
 **4 -** Once you've completed your translation file, you can save everything to your fork and create a Pull Request.
 <br>
 **5 -** You finished!
+
+## Attention!
+
+In some messages in the translation file, you will find 2 braces ```{{}}```.<br>
+Please keep the key names as they are, do not translate what is inside the keys.
+
