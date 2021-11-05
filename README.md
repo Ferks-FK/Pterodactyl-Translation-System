@@ -11,7 +11,7 @@ If you want to support the addon by adding a new translation, you are more than 
 **1 -** First, start forking this repository.
 <br>
 **2 -** Then create the file for your respective language.<br>
-**3 -** After creating the file correctly (**remember that the file must be in .js format**), you will open the `language.js` file that is in your fork and add the language you want.
+**3 -** After creating the file correctly (**remember that the file must be in .js format**), you will open the `language.js` file that is in your fork and copy the contents of it completely into your file, then just translate it into another language.
 <br>
 **4 -** Once you've completed your translation file, you can save everything to your fork and create a Pull Request.
 <br>
