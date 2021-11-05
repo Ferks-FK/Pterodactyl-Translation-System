@@ -11,7 +11,9 @@ export default {
         Account_Password_Desc: "Please enter your account password.",
         Account_Incorrect: "No account matching those credentials could be found.",
         Many_Attempts: "There were too many login attempts. Please try again later.",
-        Recaptcha_Error: "Failed to validate reCAPTCHA data."
+        Recaptcha_Error: "Failed to validate reCAPTCHA data.",
+        Request_Failed: "Request failed with status code 404",
+        CSRF_Token: "CSRF token mismatch."
       },
       Reset_Password: {
         Password_Reset: "Request Password Reset",
