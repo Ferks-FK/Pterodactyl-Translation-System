@@ -1,7 +1,6 @@
 export default {
     translation: {
       Login: {
-        Choose_a_language: "Choose a language",
         Title: "Login to continue",
         Username_or_Email: "Username or Email",
         Password: "Password",
@@ -139,6 +138,7 @@ export default {
         Server_State_Console: "Server marked as ",
         Server_State_Starting: "starting",
         Server_State_Offline: "offline",
+        Server_State_Stopping: "stopping",
         Server_State_Running: "running",
         Server_State_Connect: "Connecting...",
         Server_State_Install: "This server is currently running its installation process and most actions are unavailable.",
@@ -149,6 +149,7 @@ export default {
         Server_Button_Stop: "Stop",
         Server_Memory_Graph_Title: "Memory usage",
         Server_Cpu_Graph_Title: "CPU usage",
+        Server_Graph_Desc: "Server is offline.",
         Server_Websocket_Error: "There was an error validating the credentials provided for the websocket. Please refresh the page.",
         Server_Connect_Server: "We're having some trouble connecting to your server, please wait..."
       },
@@ -517,7 +518,14 @@ export default {
         Error_Server_Title: "Something went wrong",
         Error_Server_Desc: "The requested resource was not found.",
         Error_Permission_Title: "Access Denied",
-        Error_Permission_Desc: "You do not have permission to access this page."
+        Error_Permission_Desc: "You do not have permission to access this page.",
+        Error_Variables_1: "The value field is required.",
+        Error_Variables_2: "The value must be 1 digits.",
+        Error_Variables_3: "This value is not valid.",
+        Error_Variables_4: "The value must be at least 1.",
+        Error_Variables_5: "This value is greater than the limit.",
+        Error_Variables_6: "The value format is invalid.",
+        Error_Variables_7: "The value may only contain letters, numbers, and dashes."
       },
     }
 }
