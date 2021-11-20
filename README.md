@@ -22,3 +22,7 @@ If you want to support the addon by adding a new translation, you are more than 
 In some messages in the translation file, you will find 2 braces ```{{}}```.<br>
 Please keep the key names as they are, do not translate what is inside the keys.
 
+## Languages ready folder
+
+This folder contains all the languages that are already included in the system.<br>
+It will be updated only in case you find a translation error.
