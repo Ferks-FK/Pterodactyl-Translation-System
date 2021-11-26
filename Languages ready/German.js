@@ -514,7 +514,7 @@ export default {
         Title_API_Credentials: "API-Anmeldeinformationen"
       },
       Errors: {
-        Error_Key_Undefined: "Interner Fehler: Der Schlüssel für diese Nachricht wurde nicht gesetzt, kontaktieren Sie den Autor: Ferks#7575",
+        Error_Key_Undefined: "Interner Fehler: Der Schlüssel für diese Nachricht wurde nicht gesetzt, kontaktieren Sie den Autor: Discord Ferks#7575",
         Error_Server_Title: "Etwas ist schief gelaufen",
         Error_Server_Desc: "Die angeforderte Ressource wurde nicht gefunden.",
         Error_Permission_Title: "Zugriff verweigert",
