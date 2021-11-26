@@ -496,8 +496,8 @@ export default {
         Server_Installing_Desc: "Ihr Server sollte bald bereit sein, bitte versuchen Sie es in ein paar Minuten noch einmal.",
         Server_Suspended_Title: "Server angehalten",
         Server_Suspended_Desc: "Dieser Server ist ausgesetzt und kann nicht aufgerufen werden.",
-        Server_Transferring_Title: "Übertragen",
-        Server_Transferring_Desc: "Ihr Server wird auf einen neuen Knoten übertragen, bitte schauen Sie später noch einmal vorbei.",
+        Server_Transferring_Title: "Transfer",
+        Server_Transferring_Desc: "Ihr Server wird auf einen neuen Knoten transferiert, bitte schauen Sie später noch einmal vorbei.",
         Server_Restoring_Title: "Wiederherstellung aus Backup",
         Server_Restoring_Desc: "Ihr Server wird derzeit aus einem Backup wiederhergestellt, bitte schauen Sie in ein paar Minuten noch einmal vorbei."
       },
