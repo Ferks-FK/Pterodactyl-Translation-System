@@ -512,7 +512,7 @@ export default {
         Title_API_Credentials: "API Credentials"
       },
       Times_And_Dates: {
-        Date_Format: "dd'-'MM'-'yyyy h:mma",
+        Date_Format: "dd'-'MM'-'yyyy h:mma", // For details about formats, look at this: https://thecodebarbarian.com/formatting-javascript-dates-with-moment-js.html
         Time_Minutes_1: "3 minutes ago",
         Time_Minutes_2: "2 minutes ago",
         Time_Minutes_3: "1 minutes ago",

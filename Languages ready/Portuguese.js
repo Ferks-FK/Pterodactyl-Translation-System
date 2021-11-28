@@ -512,7 +512,7 @@ export default {
         Title_API_Credentials: "Definições da API"
       },
       Times_And_Dates: {
-        Date_Format: "dd'-'MM'-'yyyy h:mma",
+        Date_Format: "dd'-'MM'-'yyyy h:mma", // For details about formats, look at this: https://thecodebarbarian.com/formatting-javascript-dates-with-moment-js.html
         Time_Minutes_1: "Há 3 minutos",
         Time_Minutes_2: "Há 2 minutos",
         Time_Minutes_3: "Há 1 minuto",
