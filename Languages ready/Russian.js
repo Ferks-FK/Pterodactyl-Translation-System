@@ -398,7 +398,7 @@ export default {
         Task_Create_Or_Edit_Month: "Месяц",
         Task_Create_Or_Edit_Day_Of_Week: "День недели",
         Task_New_Task_Button: "Новая задача",
-        Task_Run_Task_Button: "Беги сейчас",
+        Task_Run_Task_Button: "Запущен сейчас",
         Task_Cron_Row_Minute: "Минута",
         Task_Cron_Row_Hour: "Час",
         Task_Cron_Row_Day_Month: "День (месяц)",
@@ -445,7 +445,7 @@ export default {
       },
       Server_Settings: {
         Settings_Page_Title: "Настройки",
-        Settings_SFTP_Title_1: "SFTP Подробнее",
+        Settings_SFTP_Title_1: "Информация подключение SFTP",
         Settings_SFTP_Title_2: "Адрес сервера",
         Settings_SFTP_Title_3: "Имя пользователя",
         Settings_SFTP_Desc_1: "Ваш пароль SFTP такой же, как и пароль, который вы используете для доступа к этой панели.",
