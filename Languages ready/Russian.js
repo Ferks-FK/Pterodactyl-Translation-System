@@ -290,7 +290,7 @@ export default {
         User_Create_Sub_Title_3: "Файл",
         User_Create_Sub_Title_4: "Резервное копирование",
         User_Create_Sub_Title_5: "Распределение",
-        User_Create_Sub_Title_6: "Стартап",
+        User_Create_Sub_Title_6: "Параметры запуска",
         User_Create_Sub_Title_7: "База данных",
         User_Create_Sub_Title_8: "Расписание",
         User_Create_Sub_Title_9: "Настройки",
