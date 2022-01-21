@@ -527,7 +527,7 @@ export default {
         Title_Users: "Пользователи",
         Title_Backups: "Резервные копии",
         Title_Network: "Сеть",
-        Title_Startup: "Стартап",
+        Title_Startup: "Параметры запуска",
         Title_Settings: "Настройки",
         Title_API_Credentials: "Учетные данные API"
       },
