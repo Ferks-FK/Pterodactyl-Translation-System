@@ -4,7 +4,7 @@ export default {
         Title: "Conectați-vă pentru a continua",
         Username_or_Email: "Nume de utilizator sau Email",
         Password: "Parolă",
-        Login_Button: "Conecteă-te",
+        Login_Button: "Conectează-te",
         Forgot_Password: "Ai uitat parola?",
         Username_or_Email_Desc: "Introdu un nume de utilizator sau email.",
         Account_Password_Desc: "Introdu parola contului.",
