@@ -4,6 +4,7 @@ import ES from './Spanish';
 import RU from './Russian';
 import FR from './French';
 import DE from './German';
+import PL from './Polish';
 /*
 
 Import the language file here, example: 
@@ -17,4 +18,4 @@ export { PT, EN, ES, MyLanguageIsRussian }
 Remember to use the same names as the import names.
 
 */
-export { PT, EN, ES, RU, FR, DE }
+export { PT, EN, ES, RU, FR, DE, PL }
